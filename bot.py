@@ -2,7 +2,8 @@ import telebot
 
 # Botning tokeni
 #TOKEN = "6772416606:AAGzMuiQGkOYgRmmN2EdNaqRjmXSGhxuWdE"
-TOKEN = "6998489359:AAEeX_Pju0hdoDpcYxrBdTddZTvPGCxSnK4"
+#TOKEN = "6998489359:AAEeX_Pju0hdoDpcYxrBdTddZTvPGCxSnK4"
+TOKEN = "6855202745:AAF4wJSDv5nFL8KTWvtBwqx9MjxUqRsjc2U"
 # Botni yaratish
 bot = telebot.TeleBot(TOKEN)
 
